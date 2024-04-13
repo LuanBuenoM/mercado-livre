@@ -3,7 +3,7 @@
 
 ## Endereço de Deploy - GitHub Pages
 
-https://github.com/LuanBuenoM/mercado-livre
+https://github.com/luanbuenom/mercado-livre
 
 ## Protótipo
 
