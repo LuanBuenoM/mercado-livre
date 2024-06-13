@@ -1,0 +1,55 @@
+:root {
+  --primary-color: #ffe600;
+  --secondary-color: #000000;
+  --accent-color: #e74c3c;
+  --background-color: #DEE2E6;
+  --background-main-color: #ebebeb;
+  --text-color: #000000;
+  --header-color: #1abc9c;
+  --footer-background-color: #ffffff;
+  --footer-font-color: #999;
+  --text--card-primary: rgba(0, 0, 0, .55);
+  --text--card-secondary: #00a650;
+  --icon--star-color: #3483fa;
+
+}
+
+header {
+  width: 100%;
+}
+
+header i:hover {
+  cursor: pointer;
+  font-size: 2.5rem;
+}
+
+nav {
+  background-color: var(--primary-color);
+
+}
+
+.nav-link {
+  color: var(--text-color);
+  margin-right: 1rem;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.carousel-indicators button {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50%;
+}
+
+main {
+  background-color: var(--background-main-color);
+  padding-bottom: 3rem;
+}
+
+
+footer {
+
+  background-color: var(--primary-color);
+}

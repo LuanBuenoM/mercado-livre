@@ -1,20 +1,6 @@
 {
-  "name": "mercado-livre",
-  "version": "1.0.0",
-  "description": "ecommerce-mercado-livre",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "luan-bueno",
-  "license": "ISC",
   "dependencies": {
-    "jquery": "^3.7.1",
-    "xyz": "^5.0.0"
-  },
-  "devDependencies": {
-    "abc": "^0.6.1",
-    "gh-pages": "^6.1.1"
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
   }
 }
